@@ -1,6 +1,7 @@
 ### _Menu Items with filter_ project
 
 > _Filtered menu items_ page
+![](public/menuItems.gif)
 
 <!-- > Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
 
@@ -12,8 +13,6 @@ Purpose of the project is to train myself on:
 
 - using useState,
 - Iterating through the items data and filtering the rendered data based on item category
-
-![](public/menuItems.gif)
 
 #### Technologies Used
 
