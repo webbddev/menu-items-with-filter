@@ -6,7 +6,7 @@
 
 <!-- <hr style="border:1px dotted lightblue"> </hr> -->
 
-##### General Information
+#### General Information
 
 Purpose of the project is to train myself on:
 
@@ -15,11 +15,11 @@ Purpose of the project is to train myself on:
 
 ![](public/menuItems.gif)
 
-##### Technologies Used
+#### Technologies Used
 
 - React.Js
 
-##### Code Elements
+#### Code Elements
 
 - Filtering and rendering items based on their categories:
 
@@ -34,7 +34,7 @@ const filterItems = (category) => {
 };
 ```
 
-##### Installation and project setup
+#### Installation and project setup
 
 After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
 
